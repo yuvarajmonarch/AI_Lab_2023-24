@@ -3,7 +3,7 @@
 ### REGISTER NUMBER : 
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
-### Steps:
+### Algorithm:
 1. Start the program
 2. import the math package
 3. Specify the score value of leaf nodes and find the depth of binary tree from leaf nodes.
