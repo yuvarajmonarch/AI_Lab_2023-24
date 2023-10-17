@@ -1,4 +1,4 @@
-# Ex.No: 1  Implementation of Depth First Search
+# Ex.No: 2  Implementation of Depth First Search
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
