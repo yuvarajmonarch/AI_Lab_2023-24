@@ -12,20 +12,40 @@ To write a prolog program to find the answer of query.
  Step 6: Prolog interpreter shows the output and return answer. <br> 
  Step 8:  Stop the program.
 ### Program:
-
-
-
-
-
-
-
-
-
+### Task 1:
+1.	Construct the FOL representation for the following sentences <br> 
+1.	John likes all kinds of food.  <br> 
+2.	Apples are food.  <br> 
+3.	Chicken is a food.  <br> 
+4.	Sue eats everything Bill eats. <br> 
+5.	 Bill eats peanuts  <br> 
+   Convert into clause form and Prove that John like Apple by using Prolog. <br> 
+### Program:
 
 
 ### Output:
 
+### Task 2:
+Consider the following facts and represent them in predicate form: <br>              
+•	Steve likes easy courses. <br> 
+•	Science courses are hard. <br> 
+•	All the courses in Have fun department are easy <br> 
+•	BK301 is Have fun department course.<br> 
+Convert the facts in predicate form to clauses and then prove by resolution: “Steve likes BK301 course”<br> 
 
+### Program:
+
+
+### Output:
+
+### Task 3:
+Consider the statement <br> 
+“This is a crime for an American to sell weapons to hostile nations. The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American” <br> 
+Convert to Clause form and prove west is criminal by using Prolog.<br> 
+### Program:
+
+
+### Output:
 
 ### Result:
-Thus the simple medical diagnosis system was built sucessfully.
+Thus the prolog programs were executed successfully and the answer of query was found.
