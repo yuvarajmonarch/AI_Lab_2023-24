@@ -4,15 +4,15 @@
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Steps:
-1. STEP 1: Start the program
-2. STEP 2: import the math package
-3. STEP 3: Specify the score value of leaf nodes and find the depth of binary tree from leaf nodes.
-4. STEP 4: Define the minimax function
-5. STEP 5: If maximum depth is reached then get the score value of leaf node.
-6. STEP 6: Max player find the maximum value by calling the minmax function recursively.
-7. STEP 7: Min player find the minimum value by calling the minmax function recursively.
-8. STEP 8: Call the minimax function  and print the optimum value of Max player.
-9. STEP 9: Stop the program. 
+1. Start the program
+2. import the math package
+3. Specify the score value of leaf nodes and find the depth of binary tree from leaf nodes.
+4. Define the minimax function
+5. If maximum depth is reached then get the score value of leaf node.
+6. Max player find the maximum value by calling the minmax function recursively.
+7. Min player find the minimum value by calling the minmax function recursively.
+8. Call the minimax function  and print the optimum value of Max player.
+9. Stop the program. 
 
 ### Program:
 
