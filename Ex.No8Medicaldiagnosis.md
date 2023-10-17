@@ -1,4 +1,4 @@
-# Ex.No: 7  Logic Programming –  Medical Diagnosis Expert System
+# Ex.No: 8  Logic Programming –  Medical Diagnosis Expert System
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
